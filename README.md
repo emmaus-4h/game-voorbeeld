@@ -12,6 +12,7 @@ Basis: uitleg, spelen, afgaan en punten
 - [ ] teken speler
 - [ ] beweeg speler
 - [ ] beperk beweging tot rand van scherm
+- [ ] teken lucht
 - [ ] ... *(vul zelf aan)*
 - [ ] punten op scherm zetten
 - [ ] punten kunnen scoren
