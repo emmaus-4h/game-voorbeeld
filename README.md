@@ -14,6 +14,7 @@ Basis: uitleg, spelen, afgaan en punten
 - [ ] beperk beweging tot rand van scherm
 - [ ] teken lucht twee keer
 - [ ] na 60 seconde game-over
+- [ ] toon eindscore
 - [ ] ... *(vul zelf aan)*
 - [ ] punten op scherm zetten
 - [ ] punten kunnen scoren
