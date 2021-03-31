@@ -4,6 +4,7 @@ Deze game is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 Gemaakt door:
 - *Meneer Van Geest*
 - *naam van leerling 2*
+- *naam van leerling 3*
 
 ## Mijn planning
 
