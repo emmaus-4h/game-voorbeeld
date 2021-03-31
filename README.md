@@ -2,7 +2,7 @@ Deze game is gebaseerd op het template voor 4HV van het Emmauscollege Rotterdam
 
 ## Mijn spel: *naam van het spel*
 Gemaakt door:
-- *Meneer Van Geest*
+- *Meneer Van Geest en anderen*
 - *naam van leerling 2*
 - *naam van leerling 3*
 
